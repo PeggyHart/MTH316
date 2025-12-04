@@ -1,0 +1,51 @@
+Shelf,Cereal,size_g,sugar_g,fat_g,sodium_mg,Price,Ad
+3,Kellogg's frosted mini-wheats,52,12,0.9,5,High,1
+3,Kellogg's mini-wheats,55,12,0.8,5,High,0
+4,Kellogg's frosted mini wheats,54,11,0.9,5,High,1
+2,Kellogg's honey smacks,27,15,0.5,50,High,1
+1,Post pebbles boulders,27,8,1.5,75,Medium,1
+5,Post just bunches,57,14,7,80,High,0
+5,Kellogg's crunchy nut,27,10,1,95,High,0
+3,Kellogg's cinnamon,30,12,3,105,High,1
+2,Best choice maple crisp,30,11,3,120,Medium,0
+2,Kellogg's pops,32,10,0.2,120,High,1
+2,General Mills cinnamon burst cheerios,32,9,2,125,Medium,1
+5,General Mills oatmeal crisp,60,6,4,125,High,0
+2,Kellogg's apple jacks,28,12,0.5,130,High,1
+2,Kellogg's froot loops,29,12,1,135,High,1
+5,Kellogg's fiber plus,32,7,1.5,140,High,0
+1,Kellogg's frosted flakes,30,11,0.7,150,High,1
+3,Best choice honey oat cluster,32,6,1,150,Low,0
+5,General Mills cookie crisp,26,10,1,150,Medium,1
+3,Post great grains fruits,54,13,4.5,156,High,1
+4,Post great grains,54,13,4.5,156,High,0
+1,General Mills kix,30,3,0.8,159,Medium,0
+3,Best choice right choice,31,10,1,160,Medium,0
+3,Best choice apple cinnamon happyo's,30,13,2,162,Medium,0
+2,Kellogg's special K blueberry,30,8,0,170,High,1
+1,"Kellogg's frosted flakes with fiber, less sugar",30,8,0,178,High,1
+5,Best choice granola low fat,55,16,2.5,180,Medium,0
+3,Post honey bunches of oats,52,14,2.6,187,High,0
+2,Best choice honey nut happyo's,28,9,1,190,Low,0
+2,Post alpha-bits,28,10,2,190,Medium,1
+4,General Mills total whole grain,30,5,0.5,190,Low,0
+1,General Mills cheerios,28,1,1.8,200,Low,0
+4,Reese Puffs,29,10,3.5,200,Medium,1
+5,Kellogg's all bran,30,8,1,200,High,0
+1,Kellogg's corn flakes,28,2,0.2,202,Medium,0
+2,General Mills honey nut cheerios,28,9,1.6,204,Medium,1
+1,Best choice wheat flakes,30,4,1,207,Low,0
+1,General Mills multi grain cheerios,29,6,1,207,Medium,0
+1,Post fruity crisp rice,28,12,1.5,210,Low,1
+3,Best choice cinnamon sugar bites,30,10,3.5,210,Low,0
+3,General Mills cinnamon toast crunch,31,10,2.8,210,Low,1
+5,Best choice enriched bran flakes,29,5,0.5,210,Low,0
+5,Kellogg's all bran complete wheat flakes,29,3,0.5,210,Medium,0
+4,Best Choice honey nut crisps,32,9,0,220,Low,0
+4,General Mills honey nut chex,32,9,0.5,220,Medium,1
+4,Kellogg's special K red berries,31,9,0,220,Medium,1
+4,Kellogg's special K origin,31,4,0.5,224,Medium,0
+5,Kellogg's smart start,50,3,0.5,280,High,0
+1,Kellogg's rice krispies,33,1,0.3,299,High,0
+4,Kellogg's rasin bran,53,20,1.3,342,Medium,1
+4,Post raisin bran,59,19,1.1,360,Low,0
